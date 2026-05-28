@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingcalculate",
+        "uuid": 3736020,
+        "checksum": "q9npz4"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
